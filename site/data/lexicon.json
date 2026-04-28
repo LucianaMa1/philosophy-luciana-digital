@@ -1,0 +1,11 @@
+[
+  {"term": "agency", "definition": "Who is actually able to act?", "left": 6, "top": 12, "duration": 16, "delay": 0, "tone": "amber"},
+  {"term": "judgment", "definition": "What counts as a good decision under uncertainty?", "left": 31, "top": 18, "duration": 19, "delay": 1.4, "tone": "violet"},
+  {"term": "care", "definition": "What deserves protection, attention, and maintenance?", "left": 63, "top": 15, "duration": 15, "delay": 0.7, "tone": "rose"},
+  {"term": "coordination", "definition": "How do groups align action without collapsing into noise?", "left": 78, "top": 32, "duration": 18, "delay": 2.1, "tone": "teal"},
+  {"term": "incentives", "definition": "What behavior is the system secretly paying for?", "left": 14, "top": 52, "duration": 14, "delay": 1.9, "tone": "amber"},
+  {"term": "meaning", "definition": "What kind of life or work is all this serving?", "left": 48, "top": 54, "duration": 20, "delay": 0.5, "tone": "rose"},
+  {"term": "honesty", "definition": "What makes a model or institution legible enough to trust?", "left": 72, "top": 60, "duration": 17, "delay": 1.2, "tone": "violet"},
+  {"term": "leverage", "definition": "What small intervention changes the whole game?", "left": 22, "top": 74, "duration": 21, "delay": 2.7, "tone": "teal"},
+  {"term": "institutions", "definition": "What durable structures shape outcomes over time?", "left": 56, "top": 78, "duration": 16, "delay": 1.1, "tone": "amber"}
+]

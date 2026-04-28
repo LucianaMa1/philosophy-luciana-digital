@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ethan-mollick-sign-of-the-future-gpt-5-5",
+    "author": "Ethan Mollick",
+    "author_url": "https://www.oneusefulthing.org/",
+    "source_label": "One Useful Thing",
+    "published_at": "2026-04-23T20:00:38Z",
+    "title": "Sign of the future: GPT-5.5",
+    "url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "excerpt": "One impressive step on the curve",
+    "signal_status": "fresh",
+    "lexicon": [
+      "agency",
+      "judgment",
+      "leverage"
+    ],
+    "thread": [
+      "This week's source title: Sign of the future: GPT-5.5.",
+      "One impressive step on the curve",
+      "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
+    ]
+  },
+  {
+    "id": "ethan-mollick-claude-dispatch-and-the-power-of-interfaces",
+    "author": "Ethan Mollick",
+    "author_url": "https://www.oneusefulthing.org/",
+    "source_label": "One Useful Thing",
+    "published_at": "2026-03-31T22:34:37Z",
+    "title": "Claude Dispatch and the Power of Interfaces",
+    "url": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "excerpt": "We often lack the tools for the job, even if the AI is capable enough",
+    "signal_status": "active",
+    "lexicon": [
+      "agency",
+      "judgment",
+      "leverage"
+    ],
+    "thread": [
+      "This week's source title: Claude Dispatch and the Power of Interfaces.",
+      "We often lack the tools for the job, even if the AI is capable enough",
+      "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
+    ]
+  },
+  {
+    "id": "patrick-mckenzie-fraud-investigation-is-believing-your-lying-eyes",
+    "author": "Patrick McKenzie",
+    "author_url": "https://www.bitsaboutmoney.com/",
+    "source_label": "Bits about Money",
+    "published_at": "2026-02-06T17:13:22Z",
+    "title": "Fraud Investigation is Believing Your Lying Eyes",
+    "url": "https://www.bitsaboutmoney.com/archive/fraud-investigation/",
+    "excerpt": "The financial industry has paid tens of billions of dollars in tuition on fraud detection. Here are some observations for investigators with badges, press cards, or GoPros.",
+    "signal_status": "active",
+    "lexicon": [
+      "honesty",
+      "institutions",
+      "incentives"
+    ],
+    "thread": [
+      "This week's source title: Fraud Investigation is Believing Your Lying Eyes.",
+      "The financial industry has paid tens of billions of dollars in tuition on fraud detection.",
+      "Here are some observations for investigators with badges, press cards, or GoPros."
+    ]
+  },
+  {
+    "id": "patrick-mckenzie-one-regulation-e-two-very-different-regimes",
+    "author": "Patrick McKenzie",
+    "author_url": "https://www.bitsaboutmoney.com/",
+    "source_label": "Bits about Money",
+    "published_at": "2026-01-07T21:12:19Z",
+    "title": "One Regulation E, Two Very Different Regimes",
+    "url": "https://www.bitsaboutmoney.com/archive/regulation-e/",
+    "excerpt": "How consumer protection in payments works, why it was designed that way, and why it’s being contested today.",
+    "signal_status": "active",
+    "lexicon": [
+      "institutions",
+      "coordination",
+      "leverage"
+    ],
+    "thread": [
+      "This week's source title: One Regulation E, Two Very Different Regimes.",
+      "How consumer protection in payments works, why it was designed that way, and why it’s being contested today.",
+      "He notices where money systems quietly reveal power, incentives, and institutional design."
+    ]
+  },
+  {
+    "id": "amanda-askell-self-serving-utilitarian-arguments",
+    "author": "Amanda Askell",
+    "author_url": "https://askell.io/",
+    "source_label": "Amanda Askell's Blog",
+    "published_at": "2021-03-20T00:00:00Z",
+    "title": "Self-Serving utilitarian arguments",
+    "url": "https://www.askell.blog/self-serving-utilitarian-arguments/",
+    "excerpt": "Tim is a utilitarian and has dedicated his life to doing good. He works on existential risk by day and runs a hedge fund by night that funnels money to the global poor. Tim calculates that he's on track to save a 3 milli…",
+    "signal_status": "archive, still canonical",
+    "lexicon": [
+      "leverage",
+      "honesty",
+      "care"
+    ],
+    "thread": [
+      "This week's source title: Self-Serving utilitarian arguments.",
+      "Tim is a utilitarian and has dedicated his life to doing good.",
+      "He works on existential risk by day and runs a hedge fund by night that funnels money to the global poor."
+    ]
+  },
+  {
+    "id": "amanda-askell-in-ai-ethics-bad-isn-t-good-enough",
+    "author": "Amanda Askell",
+    "author_url": "https://askell.io/",
+    "source_label": "Amanda Askell's Blog",
+    "published_at": "2020-12-14T00:00:00Z",
+    "title": "In AI ethics, \"bad\" isn't good enough",
+    "url": "https://www.askell.blog/in-ai-ethics-bad-isnt-good-enough/",
+    "excerpt": "In ethics we use the term \"pro tanto\", meaning \"to that extent\", to refer to things that have some bearing on what we ought to do but that can be outweighed. The fact that your dog is afraid of the vet is a pro tanto rea…",
+    "signal_status": "archive, still canonical",
+    "lexicon": [
+      "care",
+      "honesty",
+      "judgment"
+    ],
+    "thread": [
+      "This week's source title: In AI ethics, \"bad\" isn't good enough.",
+      "In ethics we use the term \"pro tanto\", meaning \"to that extent\", to refer to things that have some bearing on what we ought to do but that can be outweighed.",
+      "The fact that your dog is afraid of the vet is a pro tanto reason"
+    ]
+  }
+]

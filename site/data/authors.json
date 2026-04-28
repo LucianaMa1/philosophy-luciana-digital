@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Amanda Askell",
+    "slug": "amanda-askell",
+    "role": "Philosopher working on fine-tuning and alignment; strong on ethics, character, honesty, and decision theory.",
+    "mode": "feed",
+    "homepage": "https://askell.io/",
+    "source_url": "https://www.askell.blog/rss/",
+    "reason_to_watch": "She makes model behavior feel like a moral-psychology problem instead of a mere benchmark problem.",
+    "signature_terms": ["honesty", "care", "judgment", "agency", "meaning"]
+  },
+  {
+    "name": "Ethan Mollick",
+    "slug": "ethan-mollick",
+    "role": "Professor and operator-minded AI explainer; strong on interfaces, organizational adoption, and practical AI use.",
+    "mode": "feed",
+    "homepage": "https://www.oneusefulthing.org/",
+    "source_url": "https://www.oneusefulthing.org/feed",
+    "reason_to_watch": "He translates AI shifts into concrete workplace consequences faster than most people who ship products.",
+    "signature_terms": ["agency", "judgment", "leverage", "coordination", "meaning"]
+  },
+  {
+    "name": "Patrick McKenzie",
+    "slug": "patrick-mckenzie",
+    "role": "Payments thinker and systems writer; strong on regulation, fraud, institutions, and operational truth.",
+    "mode": "feed",
+    "homepage": "https://www.bitsaboutmoney.com/",
+    "source_url": "https://www.bitsaboutmoney.com/archive/rss/",
+    "reason_to_watch": "He notices where money systems quietly reveal power, incentives, and institutional design.",
+    "signature_terms": ["institutions", "incentives", "honesty", "coordination", "judgment"]
+  },
+  {
+    "name": "Helen Toner",
+    "slug": "helen-toner",
+    "role": "Policy strategist and AI governance thinker; strong on power, strategic clarity, and institutional consequences.",
+    "mode": "watchlist",
+    "homepage": "https://cset.georgetown.edu/staff/helen-toner/",
+    "source_url": "https://www.lawfaremedia.org/contributors/htoner",
+    "reason_to_watch": "Useful when the question becomes not just what systems can do, but what structures should be trusted to deploy them.",
+    "signature_terms": ["governance", "institutions", "risk", "statecraft", "trust"]
+  },
+  {
+    "name": "Shreyas Doshi",
+    "slug": "shreyas-doshi",
+    "role": "Product and career thinker; strong on leverage, clarity, ambition, and operator psychology.",
+    "mode": "watchlist",
+    "homepage": "https://www.shreyasdoshi.com/",
+    "source_url": "https://www.shreyasdoshi.com/feed/",
+    "reason_to_watch": "Useful when philosophy needs to cash out into standards, ambition, and taste inside organizations.",
+    "signature_terms": ["leverage", "taste", "career", "clarity", "ambition"]
+  }
+]

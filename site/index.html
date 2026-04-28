@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>philosophy.luciana.digital</title>
+    <meta
+      name="description"
+      content="A weekly signal garden for philosophy-minded builders, operators, and practical thinkers."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="noise"></div>
+    <div class="aurora aurora-a"></div>
+    <div class="aurora aurora-b"></div>
+
+    <header class="shell hero">
+      <div class="eyebrow-row">
+        <span class="eyebrow">philosophy.luciana.digital</span>
+        <span class="eyebrow subtle" id="last-updated">weekly signal garden</span>
+      </div>
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <p class="kicker">每周更新 · thought radar for interesting souls</p>
+          <h1>
+            A drifting field of judgment, agency, care, money, and meaning.
+          </h1>
+          <p class="lede">
+            Not a feed reader. Not a graveyard of links. A living index of what
+            sharp minds are currently thinking in public — rendered as floating
+            lexical entries and thread-like fragments.
+          </p>
+          <div class="hero-stats" id="hero-stats"></div>
+        </div>
+        <aside class="hero-panel glass">
+          <div class="panel-label">Current ritual</div>
+          <p id="site-description"></p>
+          <div class="mini-metrics" id="mini-metrics"></div>
+          <div class="pill-row" id="author-pills"></div>
+        </aside>
+      </div>
+    </header>
+
+    <section class="shell lexicon-shell">
+      <div class="section-heading-row">
+        <div>
+          <p class="section-kicker">floating lexicon</p>
+          <h2>Words that organize the week.</h2>
+        </div>
+        <p class="section-note">
+          Each term is a gravitational center. Click cards below to see how an
+          author currently bends toward it.
+        </p>
+      </div>
+      <div class="lexicon-cloud glass" id="lexicon-cloud"></div>
+    </section>
+
+    <main class="shell content-grid">
+      <section class="thread-column">
+        <div class="section-heading-row compact">
+          <div>
+            <p class="section-kicker">weekly threads</p>
+            <h2>Fresh public traces.</h2>
+          </div>
+          <div class="filter-row" id="filters"></div>
+        </div>
+        <div class="threads-grid" id="threads-grid"></div>
+      </section>
+
+      <aside class="sidebar">
+        <section class="glass sidebar-block">
+          <p class="section-kicker">watchlist</p>
+          <h3>Interesting souls</h3>
+          <div class="watchlist" id="watchlist"></div>
+        </section>
+        <section class="glass sidebar-block">
+          <p class="section-kicker">editorial logic</p>
+          <h3>Selection rules</h3>
+          <ul class="rules">
+            <li>Practical judgment beats abstract posturing.</li>
+            <li>Original mental models beat hot takes.</li>
+            <li>Public writing must cash out into work, power, or care.</li>
+            <li>Quiet thinkers are kept even when their feeds slow down.</li>
+          </ul>
+        </section>
+      </aside>
+    </main>
+
+    <dialog id="thread-dialog" class="thread-dialog">
+      <form method="dialog" class="dialog-card glass">
+        <button class="close-button" aria-label="Close">×</button>
+        <div id="dialog-content"></div>
+      </form>
+    </dialog>
+
+    <template id="thread-template">
+      <article class="thread-card glass">
+        <div class="thread-topline">
+          <span class="thread-author"></span>
+          <span class="thread-date"></span>
+        </div>
+        <h3 class="thread-title"></h3>
+        <p class="thread-excerpt"></p>
+        <div class="tag-row"></div>
+        <div class="thread-footer">
+          <span class="signal-badge"></span>
+          <button class="ghost-button">Open thread</button>
+        </div>
+      </article>
+    </template>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

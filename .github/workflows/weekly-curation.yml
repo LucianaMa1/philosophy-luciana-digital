@@ -1,0 +1,29 @@
+name: weekly-curation
+
+on:
+  schedule:
+    - cron: '15 15 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-weekly-threads:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python3 scripts/update_weekly_threads.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/threads.json site/data/site-metadata.json
+          if git diff --cached --quiet; then
+            echo "No thread changes detected."
+          else
+            git commit -m "chore: refresh weekly philosophy threads"
+            git push
+          fi
