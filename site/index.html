@@ -17,9 +17,12 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
+    <!-- 3D depth field: giant ghost words at various Z depths via perspective projection -->
+    <div class="depth-field" id="depth-field" aria-hidden="true"></div>
+
     <div class="noise"></div>
-    <div class="aurora aurora-a"></div>
-    <div class="aurora aurora-b"></div>
+    <div class="aurora-a"></div>
+    <div class="aurora-b"></div>
 
     <header class="shell hero">
       <div class="eyebrow-row">
@@ -59,7 +62,9 @@
           author currently bends toward it.
         </p>
       </div>
-      <div class="lexicon-cloud glass" id="lexicon-cloud"></div>
+      <div class="lexicon-scene" id="lexicon-scene">
+        <div class="lexicon-cloud glass" id="lexicon-cloud"></div>
+      </div>
     </section>
 
     <main class="shell content-grid">
