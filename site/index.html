@@ -11,115 +11,89 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <!-- 3D depth field: giant ghost words at various Z depths via perspective projection -->
+
+    <!-- Depth field: ghostly philosophy words in CSS perspective space -->
     <div class="depth-field" id="depth-field" aria-hidden="true"></div>
 
-    <div class="noise"></div>
-    <div class="aurora-a"></div>
-    <div class="aurora-b"></div>
-
-    <header class="shell hero">
-      <div class="eyebrow-row">
-        <span class="eyebrow">philosophy.luciana.digital</span>
-        <span class="eyebrow subtle" id="last-updated">weekly signal garden</span>
+    <!-- ── HERO ─────────────────────────────────────────── -->
+    <header class="hero">
+      <div class="hero-bar">
+        <span class="site-label">philosophy.luciana.digital</span>
+        <span class="site-date" id="last-updated">weekly signal garden</span>
       </div>
-      <div class="hero-grid">
-        <div class="hero-copy">
-          <p class="kicker">每周更新 · thought radar for interesting souls</p>
-          <h1>
-            A drifting field of judgment, agency, care, money, and meaning.
-          </h1>
-          <p class="lede">
-            Not a feed reader. Not a graveyard of links. A living index of what
-            sharp minds are currently thinking in public — rendered as floating
-            lexical entries and thread-like fragments.
-          </p>
-          <div class="hero-stats" id="hero-stats"></div>
-        </div>
-        <aside class="hero-panel glass">
-          <div class="panel-label">Current ritual</div>
-          <p id="site-description"></p>
-          <div class="mini-metrics" id="mini-metrics"></div>
-          <div class="pill-row" id="author-pills"></div>
-        </aside>
+
+      <h1 class="hero-title">
+        A drifting field of judgment, agency, care, money, and meaning.
+      </h1>
+
+      <div class="hero-foot">
+        <p class="hero-lede">
+          Not a feed reader. Not a graveyard of links. A living index of what
+          sharp minds are currently thinking in public — rendered as floating
+          lexical entries and thread-like fragments.
+        </p>
+        <div class="hero-stats" id="hero-stats"></div>
       </div>
     </header>
 
-    <section class="shell lexicon-shell">
-      <div class="section-heading-row">
-        <div>
-          <p class="section-kicker">floating lexicon</p>
-          <h2>Words that organize the week.</h2>
-        </div>
-        <p class="section-note">
-          Each term is a gravitational center. Click cards below to see how an
-          author currently bends toward it.
-        </p>
+    <!-- ── LEXICON ───────────────────────────────────────── -->
+    <section class="section-block">
+      <div class="section-bar">
+        <span class="section-label">floating lexicon</span>
+        <span class="section-note">Terms sized by frequency — click to filter</span>
       </div>
-      <div class="lexicon-scene" id="lexicon-scene">
-        <div class="lexicon-cloud glass" id="lexicon-cloud"></div>
-      </div>
+      <div class="lex-words" id="lexicon-cloud"></div>
     </section>
 
-    <main class="shell content-grid">
-      <section class="thread-column">
-        <div class="section-heading-row compact">
-          <div>
-            <p class="section-kicker">weekly threads</p>
-            <h2>Fresh public traces.</h2>
-          </div>
-          <div class="filter-row" id="filters"></div>
-        </div>
-        <div class="threads-grid" id="threads-grid"></div>
-      </section>
-
-      <aside class="sidebar">
-        <section class="glass sidebar-block">
-          <p class="section-kicker">watchlist</p>
-          <h3>Interesting souls</h3>
-          <div class="watchlist" id="watchlist"></div>
-        </section>
-        <section class="glass sidebar-block">
-          <p class="section-kicker">editorial logic</p>
-          <h3>Selection rules</h3>
-          <ul class="rules">
-            <li>Practical judgment beats abstract posturing.</li>
-            <li>Original mental models beat hot takes.</li>
-            <li>Public writing must cash out into work, power, or care.</li>
-            <li>Quiet thinkers are kept even when their feeds slow down.</li>
-          </ul>
-        </section>
-      </aside>
+    <!-- ── THREAD INDEX ──────────────────────────────────── -->
+    <main class="section-block">
+      <div class="section-bar">
+        <span class="section-label">weekly threads</span>
+        <div class="filter-row" id="filters"></div>
+      </div>
+      <div class="threads-table" id="threads-grid"></div>
     </main>
 
+    <!-- ── INTERESTING SOULS ─────────────────────────────── -->
+    <section class="section-block">
+      <div class="section-bar">
+        <span class="section-label">interesting souls</span>
+        <span class="section-note">Who is worth following</span>
+      </div>
+      <div class="souls-grid" id="watchlist"></div>
+    </section>
+
+    <!-- ── EDITORIAL LOGIC ───────────────────────────────── -->
+    <footer class="section-block footer-block">
+      <div class="section-bar">
+        <span class="section-label">editorial logic</span>
+        <span class="section-note">Selection rules</span>
+      </div>
+      <ol class="rules-grid">
+        <li>Practical judgment beats abstract posturing.</li>
+        <li>Original mental models beat hot takes.</li>
+        <li>Public writing must cash out into work, power, or care.</li>
+        <li>Quiet thinkers are kept even when their feeds slow down.</li>
+      </ol>
+      <div class="footer-end">
+        <span>philosophy.luciana.digital</span>
+        <span>每周更新 · weekly signal garden</span>
+      </div>
+    </footer>
+
+    <!-- ── THREAD DIALOG ─────────────────────────────────── -->
     <dialog id="thread-dialog" class="thread-dialog">
-      <form method="dialog" class="dialog-card glass">
-        <button class="close-button" aria-label="Close">×</button>
+      <form method="dialog" class="dialog-inner">
+        <button class="close-btn" aria-label="Close">×</button>
         <div id="dialog-content"></div>
       </form>
     </dialog>
-
-    <template id="thread-template">
-      <article class="thread-card glass">
-        <div class="thread-topline">
-          <span class="thread-author"></span>
-          <span class="thread-date"></span>
-        </div>
-        <h3 class="thread-title"></h3>
-        <p class="thread-excerpt"></p>
-        <div class="tag-row"></div>
-        <div class="thread-footer">
-          <span class="signal-badge"></span>
-          <button class="ghost-button">Open thread</button>
-        </div>
-      </article>
-    </template>
 
     <script type="module" src="./app.js"></script>
   </body>
