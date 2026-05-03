@@ -1,5 +1,26 @@
 [
   {
+    "id": "patrick-mckenzie-notes-on-a-non-profit-indicted-for-bank-fraud",
+    "author": "Patrick McKenzie",
+    "author_url": "https://www.bitsaboutmoney.com/",
+    "source_label": "Bits about Money",
+    "published_at": "2026-05-01T07:23:53Z",
+    "title": "Notes on a non-profit indicted for bank fraud",
+    "url": "https://www.bitsaboutmoney.com/archive/nonprofit-indicted-bank-fraud/",
+    "excerpt": "Well-regarded non-profit runs domestic intelligence agency; distributes intelligence product; achieves adoption in financial infrastructure; recruits agents and allies; intervenes against U.S. political fundraising.",
+    "signal_status": "fresh",
+    "lexicon": [
+      "honesty",
+      "institutions",
+      "agency"
+    ],
+    "thread": [
+      "This week's source title: Notes on a non-profit indicted for bank fraud.",
+      "Well-regarded non-profit runs domestic intelligence agency; distributes intelligence product; achieves adoption in financial infrastructure; recruits agents and allies; intervenes against U.S.",
+      "political fundraising."
+    ]
+  },
+  {
     "id": "ethan-mollick-sign-of-the-future-gpt-5-5",
     "author": "Ethan Mollick",
     "author_url": "https://www.oneusefulthing.org/",
@@ -60,27 +81,6 @@
       "This week's source title: Fraud Investigation is Believing Your Lying Eyes.",
       "The financial industry has paid tens of billions of dollars in tuition on fraud detection.",
       "Here are some observations for investigators with badges, press cards, or GoPros."
-    ]
-  },
-  {
-    "id": "patrick-mckenzie-one-regulation-e-two-very-different-regimes",
-    "author": "Patrick McKenzie",
-    "author_url": "https://www.bitsaboutmoney.com/",
-    "source_label": "Bits about Money",
-    "published_at": "2026-01-07T21:12:19Z",
-    "title": "One Regulation E, Two Very Different Regimes",
-    "url": "https://www.bitsaboutmoney.com/archive/regulation-e/",
-    "excerpt": "How consumer protection in payments works, why it was designed that way, and why it’s being contested today.",
-    "signal_status": "active",
-    "lexicon": [
-      "institutions",
-      "coordination",
-      "leverage"
-    ],
-    "thread": [
-      "This week's source title: One Regulation E, Two Very Different Regimes.",
-      "How consumer protection in payments works, why it was designed that way, and why it’s being contested today.",
-      "He notices where money systems quietly reveal power, incentives, and institutional design."
     ]
   },
   {
