@@ -1,5 +1,26 @@
 [
   {
+    "id": "ethan-mollick-co-existence-and-the-end-of-co-intelligence",
+    "author": "Ethan Mollick",
+    "author_url": "https://www.oneusefulthing.org/",
+    "source_label": "One Useful Thing",
+    "published_at": "2026-06-04T21:13:42Z",
+    "title": "Co-Existence and the End of Co-Intelligence",
+    "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "excerpt": "Also: how pitch a book to an AI!",
+    "signal_status": "fresh",
+    "lexicon": [
+      "agency",
+      "judgment",
+      "leverage"
+    ],
+    "thread": [
+      "This week's source title: Co-Existence and the End of Co-Intelligence.",
+      "Also: how pitch a book to an AI!",
+      "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
+    ]
+  },
+  {
     "id": "ethan-mollick-choosing-to-stay-human",
     "author": "Ethan Mollick",
     "author_url": "https://www.oneusefulthing.org/",
@@ -39,27 +60,6 @@
       "This week's source title: Notes on a non-profit indicted for bank fraud.",
       "Well-regarded non-profit runs domestic intelligence agency; distributes intelligence product; achieves adoption in financial infrastructure; recruits agents and allies; intervenes against U.S.",
       "political fundraising."
-    ]
-  },
-  {
-    "id": "ethan-mollick-sign-of-the-future-gpt-5-5",
-    "author": "Ethan Mollick",
-    "author_url": "https://www.oneusefulthing.org/",
-    "source_label": "One Useful Thing",
-    "published_at": "2026-04-23T20:00:38Z",
-    "title": "Sign of the future: GPT-5.5",
-    "url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
-    "excerpt": "One impressive step on the curve",
-    "signal_status": "active",
-    "lexicon": [
-      "agency",
-      "judgment",
-      "leverage"
-    ],
-    "thread": [
-      "This week's source title: Sign of the future: GPT-5.5.",
-      "One impressive step on the curve",
-      "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
     ]
   },
   {
