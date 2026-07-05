@@ -1,5 +1,26 @@
 [
   {
+    "id": "ethan-mollick-the-twilight-of-the-chatbots",
+    "author": "Ethan Mollick",
+    "author_url": "https://www.oneusefulthing.org/",
+    "source_label": "One Useful Thing",
+    "published_at": "2026-06-30T22:18:12Z",
+    "title": "The twilight of the chatbots",
+    "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "excerpt": "How work changes along the exponential",
+    "signal_status": "fresh",
+    "lexicon": [
+      "leverage",
+      "agency",
+      "judgment"
+    ],
+    "thread": [
+      "This week's source title: The twilight of the chatbots.",
+      "How work changes along the exponential",
+      "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
+    ]
+  },
+  {
     "id": "ethan-mollick-what-it-feels-like-to-work-with-mythos",
     "author": "Ethan Mollick",
     "author_url": "https://www.oneusefulthing.org/",
@@ -8,7 +29,7 @@
     "title": "What it feels like to work with Mythos",
     "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
     "excerpt": "Claude Fable represents another big jump in AI",
-    "signal_status": "fresh",
+    "signal_status": "active",
     "lexicon": [
       "leverage",
       "agency",
@@ -17,27 +38,6 @@
     "thread": [
       "This week's source title: What it feels like to work with Mythos.",
       "Claude Fable represents another big jump in AI",
-      "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
-    ]
-  },
-  {
-    "id": "ethan-mollick-co-existence-and-the-end-of-co-intelligence",
-    "author": "Ethan Mollick",
-    "author_url": "https://www.oneusefulthing.org/",
-    "source_label": "One Useful Thing",
-    "published_at": "2026-06-04T21:13:42Z",
-    "title": "Co-Existence and the End of Co-Intelligence",
-    "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
-    "excerpt": "Also: how pitch a book to an AI!",
-    "signal_status": "active",
-    "lexicon": [
-      "agency",
-      "judgment",
-      "leverage"
-    ],
-    "thread": [
-      "This week's source title: Co-Existence and the End of Co-Intelligence.",
-      "Also: how pitch a book to an AI!",
       "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
     ]
   },
