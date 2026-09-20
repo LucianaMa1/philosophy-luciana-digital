@@ -1,5 +1,26 @@
 [
   {
+    "id": "ethan-mollick-the-overhang",
+    "author": "Ethan Mollick",
+    "author_url": "https://www.oneusefulthing.org/",
+    "source_label": "One Useful Thing",
+    "published_at": "2026-09-18T17:54:32Z",
+    "title": "The Overhang",
+    "url": "https://www.oneusefulthing.org/p/the-overhang",
+    "excerpt": "Using your deep knowledge, wide knowledge, taste, and agency",
+    "signal_status": "fresh",
+    "lexicon": [
+      "agency",
+      "judgment",
+      "leverage"
+    ],
+    "thread": [
+      "This week's source title: The Overhang.",
+      "Using your deep knowledge, wide knowledge, taste, and agency",
+      "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
+    ]
+  },
+  {
     "id": "ethan-mollick-agency-and-agents",
     "author": "Ethan Mollick",
     "author_url": "https://www.oneusefulthing.org/",
@@ -17,27 +38,6 @@
     "thread": [
       "This week's source title: Agency and Agents.",
       "From the Hugging Face Incident to Twilight Factories",
-      "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
-    ]
-  },
-  {
-    "id": "ethan-mollick-an-opinionated-guide-to-which-ai-to-use-to-do-stuff",
-    "author": "Ethan Mollick",
-    "author_url": "https://www.oneusefulthing.org/",
-    "source_label": "One Useful Thing",
-    "published_at": "2026-07-23T18:05:24Z",
-    "title": "An opinionated guide to which AI to use to do stuff",
-    "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
-    "excerpt": "The Summer 2026 Edition",
-    "signal_status": "active",
-    "lexicon": [
-      "agency",
-      "judgment",
-      "leverage"
-    ],
-    "thread": [
-      "This week's source title: An opinionated guide to which AI to use to do stuff.",
-      "The Summer 2026 Edition",
       "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
     ]
   },
