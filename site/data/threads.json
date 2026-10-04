@@ -1,5 +1,26 @@
 [
   {
+    "id": "ethan-mollick-the-dot-and-the-swarm",
+    "author": "Ethan Mollick",
+    "author_url": "https://www.oneusefulthing.org/",
+    "source_label": "One Useful Thing",
+    "published_at": "2026-10-01T10:54:12Z",
+    "title": "The Dot and the Swarm",
+    "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "excerpt": "Benefitting from the Bitter Lesson",
+    "signal_status": "fresh",
+    "lexicon": [
+      "agency",
+      "judgment",
+      "leverage"
+    ],
+    "thread": [
+      "This week's source title: The Dot and the Swarm.",
+      "Benefitting from the Bitter Lesson",
+      "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
+    ]
+  },
+  {
     "id": "ethan-mollick-the-overhang",
     "author": "Ethan Mollick",
     "author_url": "https://www.oneusefulthing.org/",
@@ -17,27 +38,6 @@
     "thread": [
       "This week's source title: The Overhang.",
       "Using your deep knowledge, wide knowledge, taste, and agency",
-      "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
-    ]
-  },
-  {
-    "id": "ethan-mollick-agency-and-agents",
-    "author": "Ethan Mollick",
-    "author_url": "https://www.oneusefulthing.org/",
-    "source_label": "One Useful Thing",
-    "published_at": "2026-08-31T00:24:35Z",
-    "title": "Agency and Agents",
-    "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-    "excerpt": "From the Hugging Face Incident to Twilight Factories",
-    "signal_status": "active",
-    "lexicon": [
-      "agency",
-      "judgment",
-      "leverage"
-    ],
-    "thread": [
-      "This week's source title: Agency and Agents.",
-      "From the Hugging Face Incident to Twilight Factories",
       "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
     ]
   },
