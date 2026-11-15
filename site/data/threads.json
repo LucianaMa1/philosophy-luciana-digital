@@ -1,5 +1,26 @@
 [
   {
+    "id": "ethan-mollick-fable-5-2-and-jagged-agi",
+    "author": "Ethan Mollick",
+    "author_url": "https://www.oneusefulthing.org/",
+    "source_label": "One Useful Thing",
+    "published_at": "2026-11-09T19:04:26Z",
+    "title": "Fable 5.2 and Jagged AGI",
+    "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+    "excerpt": "General, often expert, and sometimes jagged",
+    "signal_status": "fresh",
+    "lexicon": [
+      "agency",
+      "judgment",
+      "leverage"
+    ],
+    "thread": [
+      "This week's source title: Fable 5.2 and Jagged AGI.",
+      "General, often expert, and sometimes jagged",
+      "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
+    ]
+  },
+  {
     "id": "ethan-mollick-30-months-on-the-exponential-in-charts",
     "author": "Ethan Mollick",
     "author_url": "https://www.oneusefulthing.org/",
@@ -8,7 +29,7 @@
     "title": "30 Months on the Exponential (in Charts)",
     "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
     "excerpt": "My new book is out today... what happened since the last one",
-    "signal_status": "fresh",
+    "signal_status": "active",
     "lexicon": [
       "agency",
       "judgment",
@@ -18,27 +39,6 @@
       "This week's source title: 30 Months on the Exponential (in Charts).",
       "My new book is out today...",
       "what happened since the last one"
-    ]
-  },
-  {
-    "id": "ethan-mollick-the-dot-and-the-swarm",
-    "author": "Ethan Mollick",
-    "author_url": "https://www.oneusefulthing.org/",
-    "source_label": "One Useful Thing",
-    "published_at": "2026-10-01T10:54:12Z",
-    "title": "The Dot and the Swarm",
-    "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-    "excerpt": "Benefitting from the Bitter Lesson",
-    "signal_status": "active",
-    "lexicon": [
-      "agency",
-      "judgment",
-      "leverage"
-    ],
-    "thread": [
-      "This week's source title: The Dot and the Swarm.",
-      "Benefitting from the Bitter Lesson",
-      "He translates AI shifts into concrete workplace consequences faster than most people who ship products."
     ]
   },
   {
